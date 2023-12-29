@@ -1,0 +1,364 @@
+2023-12-29 18:17:46,821 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:17:46,835 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:17:46,872 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:17:46,886 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:19:29,112 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:19:29,120 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:19:29,160 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:19:29,175 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:20:00,803 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:20:00,816 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:20:00,854 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:20:00,868 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:20:02,189 - iamldl_logs - INFO - SVM
+2023-12-29 18:20:02,197 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:20:26,802 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:20:26,809 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:20:26,848 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:20:26,861 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:20:27,128 - iamldl_logs - INFO - SVM
+2023-12-29 18:20:27,133 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:21:07,140 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:21:07,147 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:21:07,186 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:21:07,200 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:21:07,459 - iamldl_logs - INFO - SVM
+2023-12-29 18:21:07,464 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:22:17,686 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:22:17,693 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:22:17,732 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:22:17,746 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:22:17,993 - iamldl_logs - INFO - SVM
+2023-12-29 18:22:17,999 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:22:18,184 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:22:18,186 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:24:10,814 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:24:10,821 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:24:10,859 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:24:10,872 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:24:11,122 - iamldl_logs - INFO - SVM
+2023-12-29 18:24:11,127 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:24:11,322 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:24:11,324 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:24:11,642 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:24:11,642 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:24:11,680 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:24:11,722 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:24:14,166 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:26:31,848 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:26:31,855 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:26:31,892 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:26:31,906 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:26:32,224 - iamldl_logs - INFO - SVM
+2023-12-29 18:26:32,230 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:26:32,422 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:26:32,424 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:26:32,744 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:26:32,744 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:26:32,779 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:26:32,815 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:26:35,083 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:27:45,983 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:27:45,990 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:27:46,036 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:27:46,051 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:27:46,321 - iamldl_logs - INFO - SVM
+2023-12-29 18:27:46,327 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:27:46,531 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:27:46,534 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:27:46,733 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:27:46,733 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:27:46,772 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:27:46,810 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:27:49,600 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:27:58,397 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:27:58,404 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:27:58,443 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:27:58,457 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:27:58,705 - iamldl_logs - INFO - SVM
+2023-12-29 18:27:58,711 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:27:58,907 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:27:58,909 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:27:59,098 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:27:59,099 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:27:59,135 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:27:59,174 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:28:01,821 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:28:50,506 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:28:50,512 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:28:50,552 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:28:50,566 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:28:50,823 - iamldl_logs - INFO - SVM
+2023-12-29 18:28:50,829 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:28:51,030 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:28:51,032 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:28:51,238 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:28:51,238 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:28:51,286 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:28:51,329 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:28:54,105 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:30:30,922 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:30:30,929 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:30:30,966 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:30:30,980 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:30:31,238 - iamldl_logs - INFO - SVM
+2023-12-29 18:30:31,244 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:30:31,430 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:30:31,432 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:30:31,632 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:30:31,632 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:30:31,669 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:30:31,708 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:30:34,524 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:31:01,711 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:31:01,718 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:31:01,759 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:31:01,772 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:31:02,037 - iamldl_logs - INFO - SVM
+2023-12-29 18:31:02,044 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:31:02,265 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:31:02,268 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:31:02,485 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:31:02,486 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:31:02,536 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:31:02,578 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:31:05,366 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:32:49,910 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:32:49,917 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:32:49,954 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:32:49,968 - iamldl_logs - INFO - Accuracy: 80.00%
+2023-12-29 18:32:50,217 - iamldl_logs - INFO - SVM
+2023-12-29 18:32:50,223 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:32:50,415 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:32:50,417 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:32:50,610 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:32:50,610 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:32:50,645 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:32:50,682 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:32:53,317 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:32:53,558 - iamldl_logs - INFO - BERT
+2023-12-29 18:32:57,754 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:32:57,757 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:33:00,087 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:34:10,661 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:35:21,824 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:35:21,831 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:35:21,871 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:35:21,885 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:35:22,143 - iamldl_logs - INFO - SVM
+2023-12-29 18:35:22,149 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:35:22,335 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:35:22,338 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:35:22,526 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:35:22,526 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:35:22,562 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:35:22,598 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:35:25,220 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:35:25,458 - iamldl_logs - INFO - BERT
+2023-12-29 18:35:29,676 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:35:29,679 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:35:32,139 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:36:46,917 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:37:45,260 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:37:45,267 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:37:45,920 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:37:45,932 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:37:46,179 - iamldl_logs - INFO - SVM
+2023-12-29 18:37:46,184 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:37:46,374 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:37:46,377 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:37:46,567 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:37:46,568 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:37:46,742 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:37:46,771 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:37:49,361 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:37:49,593 - iamldl_logs - INFO - BERT
+2023-12-29 18:37:53,564 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:37:53,566 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:37:55,824 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:39:10,926 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:39:43,765 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:39:43,772 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:39:44,198 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:39:44,214 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:39:44,472 - iamldl_logs - INFO - SVM
+2023-12-29 18:39:44,478 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:39:44,679 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:39:44,682 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:39:44,888 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:39:44,889 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:39:45,074 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:39:45,110 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:39:47,908 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:39:48,154 - iamldl_logs - INFO - BERT
+2023-12-29 18:39:52,281 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:39:52,283 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:39:54,616 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:41:09,687 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:41:39,818 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:41:39,825 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:41:39,872 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:41:39,888 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:41:40,148 - iamldl_logs - INFO - SVM
+2023-12-29 18:41:40,154 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:41:40,348 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:41:40,350 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:41:40,536 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:41:40,536 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:41:40,574 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:41:40,612 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:41:43,503 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:41:43,758 - iamldl_logs - INFO - BERT
+2023-12-29 18:41:47,919 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:41:47,921 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:41:50,113 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:43:06,547 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:43:27,661 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:43:27,669 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:43:27,716 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:43:27,732 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:43:27,997 - iamldl_logs - INFO - SVM
+2023-12-29 18:43:28,004 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:43:28,209 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:43:28,212 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:43:28,410 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:43:28,411 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:43:28,448 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:43:28,488 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:43:31,962 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:43:32,215 - iamldl_logs - INFO - BERT
+2023-12-29 18:43:35,821 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:43:35,823 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:43:38,399 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:44:54,182 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:45:25,452 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:45:25,459 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:45:25,505 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:45:25,521 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:45:25,795 - iamldl_logs - INFO - SVM
+2023-12-29 18:45:25,801 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:45:26,025 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:45:26,027 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:45:26,215 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:45:26,216 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:45:26,252 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:45:26,298 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:45:29,454 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:45:29,724 - iamldl_logs - INFO - BERT
+2023-12-29 18:45:33,276 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:45:33,278 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:45:35,511 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:46:26,461 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:46:43,705 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:46:43,713 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:46:43,761 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:46:43,778 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:46:44,055 - iamldl_logs - INFO - SVM
+2023-12-29 18:46:44,061 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:46:44,250 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:46:44,253 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:46:44,444 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:46:44,444 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:46:44,482 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:46:44,519 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:46:47,160 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:46:47,392 - iamldl_logs - INFO - BERT
+2023-12-29 18:46:51,205 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:46:51,207 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:46:53,310 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:47:43,835 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:49:18,056 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:49:18,063 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:49:18,108 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:49:18,124 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:49:18,378 - iamldl_logs - INFO - SVM
+2023-12-29 18:49:18,383 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:49:18,575 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:49:18,577 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:49:18,766 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:49:18,766 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:49:18,803 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:49:18,840 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:49:56,189 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:49:56,197 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:49:56,257 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:49:56,274 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:49:56,537 - iamldl_logs - INFO - SVM
+2023-12-29 18:49:56,543 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:49:56,742 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:49:56,744 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:49:56,970 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:49:56,970 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:49:57,007 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:49:57,044 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:51:14,808 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:51:14,815 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:51:14,862 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:51:14,878 - iamldl_logs - INFO - Accuracy: 40.00%
+2023-12-29 18:51:15,142 - iamldl_logs - INFO - SVM
+2023-12-29 18:51:15,148 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:51:15,335 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:51:15,337 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:51:15,529 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:51:15,529 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:51:15,566 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:51:15,602 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:51:21,381 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:51:21,632 - iamldl_logs - INFO - BERT
+2023-12-29 18:51:25,849 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:51:25,851 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:51:27,900 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:52:19,523 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:52:39,712 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:52:39,719 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:52:39,767 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:52:39,783 - iamldl_logs - INFO - Accuracy: 80.00%
+2023-12-29 18:52:40,038 - iamldl_logs - INFO - SVM
+2023-12-29 18:52:40,044 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:52:40,231 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:52:40,233 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:52:40,420 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:52:40,420 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:52:40,456 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:52:40,493 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:52:46,373 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:52:46,634 - iamldl_logs - INFO - BERT
+2023-12-29 18:52:50,242 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:52:50,244 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:52:52,274 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:53:20,110 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 18:53:20,116 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 18:53:20,163 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 18:53:20,179 - iamldl_logs - INFO - Accuracy: 80.00%
+2023-12-29 18:53:20,441 - iamldl_logs - INFO - SVM
+2023-12-29 18:53:20,447 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:53:20,642 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 18:53:20,644 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:53:20,842 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 18:53:20,842 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 18:53:20,879 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 18:53:20,917 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 18:53:26,951 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 18:53:27,212 - iamldl_logs - INFO - BERT
+2023-12-29 18:53:30,495 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 18:53:30,497 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 18:53:32,587 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 18:53:47,747 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 20:15:46,824 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
+2023-12-29 20:15:46,831 - iamldl_logs - INFO - Cantidad de datos: 23
+2023-12-29 20:15:46,877 - iamldl_logs - INFO - Árbol de Decisión
+2023-12-29 20:15:46,892 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 20:15:47,142 - iamldl_logs - INFO - SVM
+2023-12-29 20:15:47,148 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 20:15:47,329 - iamldl_logs - INFO - Naive Bayes
+2023-12-29 20:15:47,331 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 20:15:47,513 - iamldl_logs - INFO - Redes Neuronales Recurrentes
+2023-12-29 20:15:47,514 - iamldl_logs - INFO - Preprocesamiento de los textos con Tokenizer
+2023-12-29 20:15:47,548 - iamldl_logs - INFO - Conversión de los textos a secuencias
+2023-12-29 20:15:47,584 - iamldl_logs - INFO - Padding de las secuencias
+2023-12-29 20:15:53,642 - iamldl_logs - INFO - Accuracy: 60.00%
+2023-12-29 20:15:53,902 - iamldl_logs - INFO - BERT
+2023-12-29 20:15:57,857 - iamldl_logs - INFO - Construcción del modelo
+2023-12-29 20:15:57,859 - iamldl_logs - INFO - Capa de DistilBERT
+2023-12-29 20:15:59,870 - iamldl_logs - INFO - Capas de la red neuronal
+2023-12-29 20:16:15,791 - iamldl_logs - INFO - Accuracy: 0.00%
