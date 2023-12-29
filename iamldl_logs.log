@@ -344,6 +344,7 @@
 2023-12-29 18:53:30,497 - iamldl_logs - INFO - Capa de DistilBERT
 2023-12-29 18:53:32,587 - iamldl_logs - INFO - Capas de la red neuronal
 2023-12-29 18:53:47,747 - iamldl_logs - INFO - Accuracy: 60.00%
+<<<<<<< HEAD
 2023-12-29 20:15:46,824 - iamldl_logs - INFO - Cargando el dataset desde un archivo JSON
 2023-12-29 20:15:46,831 - iamldl_logs - INFO - Cantidad de datos: 23
 2023-12-29 20:15:46,877 - iamldl_logs - INFO - Árbol de Decisión
@@ -362,3 +363,5 @@
 2023-12-29 20:15:57,859 - iamldl_logs - INFO - Capa de DistilBERT
 2023-12-29 20:15:59,870 - iamldl_logs - INFO - Capas de la red neuronal
 2023-12-29 20:16:15,791 - iamldl_logs - INFO - Accuracy: 0.00%
+=======
+>>>>>>> 991be33e612362674db97e02d7b8c122b3cfc97e

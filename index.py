@@ -309,4 +309,8 @@ accuracy_bert = accuracy_score(y_test, y_pred_bert)
 logger.info("Accuracy: %.2f%%" % (accuracy_bert * 100.0))
 cm_bert = confusion_matrix(y_test, y_pred_bert, labels=[1, 2, 3, 4, 5, 6, 7])
 show_confusion_matrix(cm_bert, "BERT")
+<<<<<<< HEAD
 model.save("models/bert.h5")
+=======
+model.save("models/bert.h5")
+>>>>>>> 991be33e612362674db97e02d7b8c122b3cfc97e
