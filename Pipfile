@@ -9,6 +9,7 @@ tensorflow = "*"
 seaborn = "*"
 keras = "*"
 transformers = "*"
+scikit-learn = "*"
 
 [dev-packages]
 

@@ -131,7 +131,7 @@ def clean_text(text)->str:
     text = text.replace(".", "")
     text = text.replace(":", "")
 
-    text = ' '.join([word for word in text.split() if word not in stop_words])
+    # text = ' '.join([word for word in text.split() if word not in stop_words])
     return text.lower()
 
 
