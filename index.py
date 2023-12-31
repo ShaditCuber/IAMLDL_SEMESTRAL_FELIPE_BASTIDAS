@@ -64,47 +64,47 @@ df.head()
 
 logger.info("Cantidad de datos: {}".format(df.shape[0]))
 
-
-# descargar stopwords español de nltk
-# import nltk
-# nltk.download('stopwords')
-# from nltk.corpus import stopwords
-# stop_words = stopwords.words('spanish')
+"""
+import nltk
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+stop_words = stopwords.words('spanish')
 
 stop_words = [
-    # "a",
-    # "actualmente",
-    # "acuerdo",
-    # "adelante",
-    # "ademas",
-    # "adrede",
-    # "afirmó",
-    # "agregó",
-    # "ahi",
-    # "ahora",
-    # "ahí",
-    # "al",
-    # "algo",
-    # "alguna",
-    # "algunas",
-    # "alguno",
-    # "algunos",
-    # "algún",
-    # "alli",
-    # "alrededor",
-    # "ambos",
-    # "ampleamos",
-    # "antano",
-    # "antaño",
-    # "ante",
-    # "anterior",
-    # "antes",
-    # "apenas",
-    # "aproximadamente",
-    # "aquel",
-    # "aquella",
+    "a",
+    "actualmente",
+    "acuerdo",
+    "adelante",
+    "ademas",
+    "adrede",
+    "afirmó",
+    "agregó",
+    "ahi",
+    "ahora",
+    "ahí",
+    "al",
+    "algo",
+    "alguna",
+    "algunas",
+    "alguno",
+    "algunos",
+    "algún",
+    "alli",
+    "alrededor",
+    "ambos",
+    "ampleamos",
+    "antano",
+    "antaño",
+    "ante",
+    "anterior",
+    "antes",
+    "apenas",
+    "aproximadamente",
+    "aquel",
+    "aquella",
 
 ]
+"""
 
 def clean_text(text)->str:
     """Función para limpiar los textos de los Informes.
@@ -137,16 +137,13 @@ def clean_text(text)->str:
 
 
 
-# Preprocesamiento de los textos
 df["Texto"] = df["Texto"].apply(clean_text)
 
 
 
-# Dividir el dataset en entrenamiento y prueba
 X_train, X_test, y_train, y_test = train_test_split(df["Texto"], df["Nota"], test_size=0.2, random_state=42)
 
 
-# Vectorización de los textos
 vectorizer = TfidfVectorizer()
 X_train_vect = vectorizer.fit_transform(X_train)
 X_test_vect = vectorizer.transform(X_test)
@@ -309,8 +306,4 @@ accuracy_bert = accuracy_score(y_test, y_pred_bert)
 logger.info("Accuracy: %.2f%%" % (accuracy_bert * 100.0))
 cm_bert = confusion_matrix(y_test, y_pred_bert, labels=[1, 2, 3, 4, 5, 6, 7])
 show_confusion_matrix(cm_bert, "BERT")
-<<<<<<< HEAD
-model.save("models/bert.h5")
-=======
-model.save("models/bert.h5")
->>>>>>> 991be33e612362674db97e02d7b8c122b3cfc97e
+model.save("models/bert.keras")
